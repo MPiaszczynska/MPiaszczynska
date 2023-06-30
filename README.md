@@ -19,7 +19,7 @@
 ---
 
 ### 👩‍💻 About Me :
-- 🖥️ I’m Test Automation Engineer working for Sparta Global.
+- 🖥️ I’m a Test Automation Engineer working for Sparta Global.
 
 - 🌿 Exploring New Technologies.
 
